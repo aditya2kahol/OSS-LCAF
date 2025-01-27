@@ -1,0 +1,14 @@
+bitsandbytes
+datasets
+accelerate
+loralib
+peft
+trl
+evaluate
+rouge_score
+nltk
+huggingface_hub
+transformers
+torch
+flash-attn
+openpyxl
