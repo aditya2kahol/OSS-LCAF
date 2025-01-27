@@ -1,0 +1,9 @@
+torch
+transformers
+huggingface-hub
+accelerate
+bitsandbytes
+pandas
+openpyxl
+sentencepiece
+fuzzywuzzy
