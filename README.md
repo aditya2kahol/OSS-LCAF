@@ -1,4 +1,4 @@
-# OSS-LCAF: Open Source Softwarer License Conflict Analysis Framework
+# OSS-LCAF: Open Source Software License Conflict Analysis Framework
 Contains code, dataset and links of finetuned model adapters
 
 1. *Code*: Contains the code related to the proposed framework
